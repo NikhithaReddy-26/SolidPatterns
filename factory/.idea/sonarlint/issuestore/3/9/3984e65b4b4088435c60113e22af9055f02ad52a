@@ -1,0 +1,5 @@
+
+R
+java:S1854"=Remove this useless assignment to local variable "resource2".(¸Ö»`
+C
+java:S1481".Remove this unused "resource2" local variable.(¸Ö»`
